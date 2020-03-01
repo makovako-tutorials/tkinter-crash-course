@@ -1,0 +1,9 @@
+__pycache__/
+.vscode
+bin/
+build/
+dist/
+include/
+lib/
+part_manager.spec
+store.db
